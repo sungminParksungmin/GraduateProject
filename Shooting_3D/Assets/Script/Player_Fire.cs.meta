@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2e2aa2b0f8d5f2f46be0d04bae3e92c5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Player_Missile: {fileID: 1735605505937648, guid: 673a22746c825914b8ceee61f0e2e574,
+      type: 2}
+  - MissileLauncher01: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
